@@ -1,2 +1,2 @@
-# curr-culo
+# Currículo | Rafaela Raymundo
 Projeto Hubcount
